@@ -8,6 +8,9 @@ body{
   background-color: rgb(153 153 153);
 
 }
+a{
+  target="_blank";
+}
 
 #span1{
   color: red;
@@ -35,6 +38,7 @@ nav ul li{
   border-style: groove;
 }
 nav ul li a{
+
   padding-inline-start: 5px;
   color: rgb(51, 153, 255) solid;
   display: block;
