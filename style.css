@@ -8,6 +8,9 @@ body{
   background-color: rgb(153 153 153);
 
 }
+.everything{
+  margin-left: 20px;
+}
 
 #span1{
   color: red;
@@ -26,7 +29,7 @@ body{
   list-style: none;
 }
 #logo-img{
-  margin: 5px 5px 5px 5px;
+  margin: 10px 5px 5px 0px;
   width: 50px;
 }
 nav ul li{
