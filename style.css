@@ -1,15 +1,12 @@
 body{
   border-style: outset solid;
-  margin: 10px 20px 30px 40px;
-  width: 75%;
+  margin: 25px 20px 30px 100px;
+  width: 0 auto ;
   position: absolute;
-  padding: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 50px auto;
   /**background-image: url("https://pbs.twimg.com/profile_images/1017458813199372289/QtGv1tyn.jpg");*/
   background-color: rgb(153 153 153);
 
-}
-a{
-  target="_blank";
 }
 
 #span1{
@@ -29,6 +26,7 @@ a{
   list-style: none;
 }
 #logo-img{
+  margin: 5px 5px 5px 5px;
   width: 50px;
 }
 nav ul li{
